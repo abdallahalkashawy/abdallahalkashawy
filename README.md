@@ -48,7 +48,7 @@
 
 ### Languages
 <div>
-  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/static/v1?label=&message=C%2FC%2B%2B&color=00599C&logo=cplusplus&logoColor=white" alt="C/C++ Badge"/>
   <img src="https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=postgresql&logoColor=white" alt="SQL Badge"/>
