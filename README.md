@@ -10,6 +10,7 @@
   <i>Welcome to my GitHub profile! I am a passionate software developer and computer science engineer with a strong background in various programming languages and frameworks.</i>
 </div>
 
+![Hello, I'm Abdallah Alkashawy](image.png)
 ## 🎓 Education
 
 - **German University in Cairo**, New Cairo, Egypt  
